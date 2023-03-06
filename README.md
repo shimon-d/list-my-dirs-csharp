@@ -1,2 +1,2 @@
-# list-my-dirs-csharp
+# List My Dirs
 Simple program to list dirs
